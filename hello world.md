@@ -17,5 +17,3 @@ Hello world!
 3. element 3
 
 ~~word~~
-
-word
