@@ -1,6 +1,6 @@
-const names = prompt("Введите имя");
+const names = prompt("Р’РІРµРґРёС‚Рµ Р’Р°С€Рµ РёРјСЏ");
 
 greeting(names);
 function greeting(name) {
-    console.log(`Привет, ${name}!`);
+    console.log(`РџСЂРёРІРµС‚, ${name}!`);
 }
